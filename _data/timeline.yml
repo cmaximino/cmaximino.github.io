@@ -17,45 +17,48 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Universidade Federal do Sul e Sudeste do Pará (Unifesspa)
+  title-url: https://www.unifesspa.edu.br
+  date: 2015 - Presente
+  subtitle: Professor Adjunto A1
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Faculdade de Psicologia
+    - tag: Programa de Pós-Graduação em Educação de Ciências e Matemática
+    - tag: Rede Bionorte
+    - tag: Programa de Pós-Graduação em Neurociências e Comportamento (professor colaborador)
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: Universidade do Estado do Pará
+  title-url: https://paginas.uepa.br/campusmaraba/
+  date: 2013 - 2015
+  subtitle: Professor Assistente I
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: Departamento de Morfologia e Ciências Fisiológicas
+    - tag: Campus de Marabá
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: Universidade Federal do Pará
+  title-url: http://icb.ufpa.br/
+  date: 2009 - 2011
+  subtitle: Professor substituto
+  tags:
+    - tag: Instituto de Ciências Biológicas
+  timeline-side: right
+
+- title: Universidade Federal do Pará
+  title-url: http://repositorio.ufpa.br/jspui/bitstream/2011/6694/1/Tese_PapelSerotoninaComportamento.pdf
+  date: 2011 - 2014
+  subtitle: Doutorado em Neurociências e Biologia Celular (orientador: Anderson Manoel Herculano)
   timeline-side: left
-
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+  
+- title: Universidade Federal do Pará
+  title-url: http://repositorio.ufpa.br/jspui/bitstream/2011/9279/1/Dissertacao_ParametrosEscototaxiaModelo.pdf
+  date: 2009 - 2011
+  subtitle: Mestrado em Neurociências e Biologia Celular (orientador: Amauri Gouveia Jr)
+  timeline-side: left
+  
+- title: Universidade Estadual Paulista "Júlio de Mesquita Filho"
+  title-url: https://www.fc.unesp.br/#!/departamentos/psicologia/
+  date: 2001 - 2008
+  subtitle: Formação de Psicólogo; Licenciatura em Psicologia
   timeline-side: left
