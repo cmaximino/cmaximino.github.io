@@ -13,21 +13,72 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Papel da serotonina em processos comportamentais relevantes para a modelagem de transtornos mentais
+  descr: "O campo da psicopatologia experimental, em especial no que tange o desenvolvimento de modelos animais, vêm se desenvolvendo de maneira acelerada, com foco excessivo na caracterização de efeitos de drogas e manipulações genéticas sem apoio na pesquisa comportamental. Nesse último campo, o entendimento de que algumas funções comportamentais associadas a sintomas psicopatológicos representam um contínuo com funções normais (p. ex., medo e ansiedade), e que diferentes transtornos apresentam estruturas diferentes organizadas em torno de domínios alterados em interação (p. ex., alterações de ansiedade, alterações de sociabilidade, alterações de humor), vêm ganhando força. A pesquisa acerca desses domínios comportamentais mais amplos, sua relação com comportamentos específicos em modelos animais, e a função (ou disfunção) de sistemas de neurotransmissão é uma fronteira importante no campo dos modelos animais em psicopatologia. A caracterização dos sistemas de neurotransmissão bem como de diferentes paradigmas comportamentais do paulistinha (Danio rerio), um pequeno teleósteo utilizado nas pesquisas em biologia do desenvolvimento e neurociências, tem representado um avanço para o conhecimento dos mecanismos relacionados ao comportamento tipo-ansiedade e tipo-medo, exploração, agressão, e sociabilidade, corroborando sua utilização em estudos translacionais sobre domínios comportamentais relevantes para os transtornos mentais. Dessa maneira, o presente projeto propõe investigar os mecanismos neuroquímicos e os padrões comportamentais dos fenótipos observados em diferentes paulistinhas adultos tratados com drogas que ativam o sistema serotonérgico. Assim, pretendemos avaliar primeiramente o perfil da resposta dos animais submetidos a testes comportamentais distintos, e então avaliar o efeito de agonistas e antagonistas de receptores de serotonina"
+  demo: https://osf.io/kc8hy/
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: Serotonina
+    - tag: Vias de transdução
+    - tag: Psicopatologia experimental
+    - tag: Domínios comportamentais
+    - tag: Paulistinha
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Papel da serotonina em um respostas comportamentais à substância de alarme em paulistinhas: Um possível modelo para o transtorno de pânico 
+  descr: "O presente projeto de pesquisa reflete a continuação da caminhada do Grupo de Pesquisa em Neurofarmacologia e Psicopatologia Experimental, dando continuidade às pesquisas acerca do papel do sistema serotonérgico em transtornos de ansiedade. Trabalhos anteriores do grupo sugeriram uma modulação dupla da serotonina no comportamento defensivo de paulistinhas, mas a participação desse sistema em respostas tipo-medo ou tipo-pânico não está clara. O presente projeto busca: A) Validar o uso de respostas à substância de alarme como modelo de ataque de pânico e transtorno de pânico nessa espécie; B) Identificar relações entre respostas tipo-pânico e respostas de orientação, como forma de analisar o papel do alerta no transtorno de pânico; C) Analisar o papel da serotonina e de receptores 5-HT2C nessas respostas. Para isso, empregaremos uma estratégia múltipla, utilizando estímulos ecologicamente relevantes para o estudo de respostas tipo-pânico e respostas de orientação, e avaliando o efeito desses estímulos em variáveis fisiológicas (resposta melanofórica) e neuroquímicas (atividade da monoamina oxidase) na tentativa de embasar biologicamente o fenômeno comportamental observado. A utilização de populações que diferem em níveis basais de ansiedade e responsividade à substância de alarme também é proposta como estratégia para o estudo do papel da serotonina nesse fenômeno. Finalmente, também propomos a utilização de inibidores da síntese de serotonina e agonistas e antagonistas do receptor 5-HT2C como forma de estabelecer uma descrição dos mecanismos envolvidos. Assim, o presente projeto deverá responder a uma importante lacuna no conhecimento acerca do papel da serotonina no transtorno de pânico, propondo novos modelos de estudo em psicopatologia experimental."
+  demo: https://osf.io/bk85d/
   tags:
-    - tag: Python
-    - tag: Django
+    - tag: Serotonina
+    - tag: Medo
+    - tag: Psicopatologia experimental
+    - tag: Paulistinha
+    
+- name: Multi-site study on replicability and heterogeneity of zebrafish behavioral models
+  descr: "Single-laboratory studies conducted under highly standardized conditions are the gold standard in preclinical animal research. However, using simulations based on 440 preclinical studies and comparing the reproducibility of results between single-laboratory and multi-laboratory studies, Voelkl et al. (2018; doi:10.1371/journal.pbio.2003693) found that "multi-laboratory studies including as few as 2 to 4 laboratories produced much more consistent results, thereby increasing reproducibility without a need for larger sample sizes. This suggests that laboratory standardization can be a source for the poor reproducibility of preclinical research. The aim of this proposal is to make an empirical test of the predictions made by Voekl et al. using multi-site studies exploiting zebrafish behavioral models. I propose attempts to replicate two studies - one on the effects of buspirone on anxiety-like behavior in the novel tank test (Bencan et al., 2009; doi: 10.1016/j.pbb.2009.07.009; 6.25 mg/L) and one on the effects of conspecific alarm substance on the observation cylinder and the novel tank test (Quadros et al., 2016; doi: 10.1016/j.beproc.2015.10.014). Both studies were chosen because they are easy to reproduce, but results are not always replicated. This empirical study would allow us to test predictions on the relationship between replicability and heterogeneity, as well as to provide a critical analysis of multi-site behavioral experiments. I am happy to discuss the idea in more detail, and believe that the results could make a nice publication, of which the collaborators would figure as co-authors."
+  demo: https://osf.io/x2snw/
+  tags:
+    - tag: Ansiedade
+    - tag: Impulsividade
+    - tag: Tomada de decisão
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: Individual differences in risky decision making in university students
+  descr: "Tomada de decisão arriscada é o processo de fazer escolhas com potencial tanto para resultados positivos quanto para negativos (MANER et. al. 2007). As diferenças individuais de um indivíduo podem afetar este processo como, por exemplo, a impulsividade e ansiedade. Segundo a Teoria de Sensibilidade ao Reforço, a impulsividade e a ansiedade são dimensões da personalidade antagônicas e estão relacionados a comportamentos mal adaptativos. Desta forma, o presente estuda busca investigar a influência desses dois construtos na tomada de decisão arriscada de estudantes universitários. Para operacionaliza-los, será utilizado o Ballon Analogue Risk Task (BART), tarefa computadorizada para avaliar a tomada de decisão arriscada; e a Escala BIS/BAS, para avaliar a ansiedade e impulsividade. Participarão da pesquisa 53 estudantes universitários que aceitarem livremente em responder as etapas do experimento. Os resultados serão analisados quantitativamente e divulgados em meio científico. Espera-se que indivíduos com altos escores de ansiedade apresentem maior sensibilidade a punição, enquanto os indivíduos com escores altos para impulsividade apresentem maior sensibilidade a recompensa."
+  demo: https://osf.io/fpxv8/
+  tags:
+    - tag: Replicação e replicabilidade
+    - tag: Ativismo epistêmico
+    - tag: Psicopatologia experimental
+    - tag: Paulistinha
+
+- name: COVID-19, isolamento social, e sofrimento psíquico: Fatores mediadores
+  descr: "O possível impacto negativo das estratégias de saúde pública para contenção da COVID-19 sobre a saúde mental é um agravante que deve ser considerado na escolha de políticas complementares⁠. Uma prioridade imediata para a pesquisa na área é coletar dados de alta qualidade sobre os impactos da pandemia da COVID-19 sobre a saúde mental da população em geral, dos grupos vulneráveis, e de pacientes infectados com SARS-CoV-2, pesquisas estas que devem, sobremaneira, dar voz aos participantes no sentido de levantar, de modo êmico, os atos de significado que estão presentes na forma como eles/as pensam o isolamento físico. Dentre esses objetivos de prioridade imediata, a identificação de mecanismos causais associados aos efeitos sobre a saúde mental, incluindo solidão, sensação de aprisionamento, estratégias de enfrentamento, e consumo repetido de informações derivadas da mídia, é fundamental para a criação de políticas complementares de saúde mental que diminuam o impacto do isolamento social ao mesmo tempo em que mantenham a efetividade do confinamento comunitário⁠. Assim, entender os mecanismos intra- e inter-psíquicos que prevêem respostas adequadas ou desadaptativas do ponto de vista de saúde mental pode impactar positivamente a criação de políticas e intervenções que mitiguem os efeitos negativos do confinamento comunitário"
+  demo: https://osf.io/fv7ax/
+  tags:
+    - tag: COVID-19
+    - tag: Isolamento social
+    - tag: Ansiedade
+
+- name: COVID-19, isolamento social, e sofrimento psíquico: Experiências de sofrimento psíquico em professores da Educação Básica atuando remotamente
+  descr: "O possível impacto negativo das estratégias de trabalho pedagógico remoto na pandemia da COVID-19 sobre a saúde mental de educadores é um agravante que deve ser considerado na escolha de políticas complementares⁠ . Uma prioridade imediata para a pesquisa na área é coletar dados de alta qualidade sobre os impactos da pandemia da COVID-19 sobre a saúde mental de educadores em isolamento social, pesquisas estas que devem, sobremaneira, dar voz aos participantes no sentido de levantar, de modo êmico, os atos de significado que estão presentes na forma como eles/as pensam o trabalho pedagógico remoto. Dentre esses objetivos de prioridade imediata, a identificação de mecanismos causais associados aos efeitos sobre a saúde mental, incluindo determinantes de gênero, divisão sexual do trabalho, e experiência prévia em ensino à distância, é fundamental para a criação de políticas complementares de saúde e educação que diminuam o impacto do isolamento social ao mesmo tempo em que mantenham a efetividade das estratégias educativas."
+  demo: https://osf.io/4jxy6/
+  tags:
+    - tag: COVID-19
+    - tag: Isolamento social
+    - tag: Ansiedade
+    
+- name: Neuroliga: Liga Acadêmica de Neurociências de Marabá
+  descr: "As Ligas Acadêmicas são organizações estudantis, criadas e gerenciadas por acadêmicos, fato importante para a condução das atividades, dentro das determinações de seus projetos e coordenada por um professor coordenador e professores orientadores. Geralmente, as Ligas Acadêmicas são baseadas em problemas da comunidade na qual estão inseridas, identificando-os e pesquisando-os, com o objetivo de ajudar a propor soluções. Dentro desse ponto de vista, funcionariam como canalizadoras dos interesses científicos de professores e pesquisadores da universidade da qual fazem parte, como estratégia de flexibilização curricular e realização do tripé ensino-pesquisa-extensão. O Programa de Extensão 'NeuroLiga – Liga Acadêmica de Neurociências de Marabá' propõe abordar achados experimentais e elementos teóricos das Neurociências nas suas relações com a saúde mental e com a sociedade, através da realização de atividades (grupos de estudos, cursos introdutórios, e organização de eventos de divulgação científica), com o objetivo de fundamentar um processo educativo, cultural, científico e político, de caráter interdisciplinar e interprofissional, calcado na interação dialógica e na indissociabilidade ensino-pesquisa-extensão. Espera-se que as ações propostas promovam interação transformadora entre a Universidade e a área da saúde mental, promovendo práticas inovadoras nesse campo. Para tanto, busca-se associar os diferentes objetos de pesquisa no campo das Neurociências com problemas socialmente relevantes, como questões relativas à drogadição e aos transtornos mentais, fazendo com que a produção do conhecimento obtidos através das atividades de ensino e pesquisa retornem ao grupo social mais interessado nessas questões. Essas ações pressupõe uma interação dialógica, na medida em que a participação dos atores sociais em uma ação do Programa contribui para a produção de conhecimento significativo a partir das práticas cotidianas desses atores."
+  tags:
+    - tag: Projetos de extensão
+    - tag: Liga Acadêmica
+    - tag: Neurociências
+    - tag: Difusão científica
+    
+- name: SinapseCast
+  descr: "Um podcast de neurociências, criado pela Liga Acadêmica de Neurociências de Marabá."
+  demo: https://anchor.fm/sinapsecast/
+  tags:
+    - tag: Projetos de extensão
+    - tag: Liga Acadêmica
+    - tag: Neurociências
+    - tag: Difusão científica
+    - tag: Podcast
