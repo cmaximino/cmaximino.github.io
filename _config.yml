@@ -7,7 +7,7 @@ title: Caio Maximino - Acadêmico
 description: Site acadêmico, construído com template de Jekyll
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/caiomaximino.github.io"
+baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
@@ -83,7 +83,7 @@ contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, se
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: cmaximino.github.io
+repository: lanec-unifesspa
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
